@@ -86,7 +86,7 @@ Monopoly Strategy Simulator recreates the mechanics of Monopoly to evaluate how 
 
 ## Technologies Used
 - **Java**: Core programming language for the simulation.
-- **GitHub**: Version control and collaboration.
+- **GitHub**: Version control.
 
 ---
 
